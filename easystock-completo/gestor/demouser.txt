@@ -1,3 +1,0 @@
-Demo Users:
-Admin: admin@empresa.com / admin123
-User: joao@empresa.com / 123456
